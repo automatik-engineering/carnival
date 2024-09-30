@@ -1,0 +1,4 @@
+*.mdx
+
+/.nx/cache
+core/report
